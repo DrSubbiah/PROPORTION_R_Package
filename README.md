@@ -1,8 +1,5 @@
 # PROPORTION_R_Package
 
-
-# PROPORTION_R_Package  
-
 [![CRAN version](https://img.shields.io/badge/CRAN-version-NA-lightgrey.svg)](https://cran.r-project.org/package=PROPORTION_R_Package)  
 
 [![License: GPL-2](https://img.shields.io/badge/license-GPL%20%28%3E%3D%202%29-blue.svg)](LICENSE)  
